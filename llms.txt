@@ -1,0 +1,22 @@
+# Plain Tunnel Guide
+
+> An independent guide to Proton VPN: what the free plan covers, what VPN Plus costs and renews at, and how to install it, written from the company's own pages.
+
+Independent guides to Proton VPN by Plain Tunnel Guide. Facts come from the vendor's pages on the date shown on each page.
+
+## Decide
+- [Proton VPN review: a free plan that works and a paid plan built for privacy](https://proton-pc.github.io/review.html): Proton VPN review from the vendor's documentation: free plan limits, VPN Plus features, Secure Core, NetShield, prices from $2.99 a month, an 8.6/10 score.
+- [Proton VPN pricing: VPN Plus and Unlimited prices, renewals and offers](https://proton-pc.github.io/pricing.html): Proton VPN pricing checked 26 November 2026: VPN Plus $9.99 a month or $2.99 a month for the first year, renewals at $83.88, Unlimited, payment and refunds.
+- [Proton VPN free vs Plus: what the free plan leaves out](https://proton-pc.github.io/free-vs-plus.html): Proton VPN free vs Plus compared: 1 device vs 10, 10 random countries vs 140+, streaming, P2P and NetShield, and the features both plans share.
+- [Proton VPN refund and cancellation: the 30 day guarantee explained](https://proton-pc.github.io/refund-cancel.html): Proton VPN refund policy: 30 day money back on all paid plans, cancel any time, prorated plan changes, renewal prices to watch and where the full terms are.
+
+## Do it
+- [Download Proton VPN: what you get, supported systems and install steps](https://proton-pc.github.io/download.html): Download Proton VPN from the official site: free plan or VPN Plus, x64 and ARM64 Windows builds, supported platforms, install steps and the 30 day refund.
+- [How to set up Proton VPN on Windows, step by step](https://proton-pc.github.io/setup-windows.html): Set up Proton VPN on Windows: pick the x64 or ARM64 build, install, sign in, use Quick Connect, turn on the kill switch and fix connection problems.
+- [Proton VPN system requirements and supported devices](https://proton-pc.github.io/devices.html): Proton VPN system requirements: Windows x64 and ARM64, macOS, Ubuntu and Debian, Android, iOS, TVs and browsers, plus device limits and router setup.
+
+## Compare
+- [Proton VPN alternatives: the rivals the company compares itself with](https://proton-pc.github.io/alternatives.html): Proton VPN alternatives: NordVPN, ExpressVPN, Surfshark, CyberGhost, Mullvad and Private Internet Access, with the claims from the vendor's own table.
+
+## Full text
+- [llms-full.txt](https://proton-pc.github.io/llms-full.txt): every guide on this site in plain markdown

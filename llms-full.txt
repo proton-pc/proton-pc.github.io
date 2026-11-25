@@ -1,0 +1,788 @@
+# Plain Tunnel Guide: all guides
+
+# Proton VPN guide: free plan, VPN Plus prices and setup
+
+URL: https://proton-pc.github.io/index.html
+Updated: 2026-11-26
+
+Proton VPN is a Swiss VPN service with a free plan and two paid plans, VPN Plus and Proton Unlimited. This guide sets out what each plan includes, what it costs on 26 November 2026 and how to install the app, using the company's own pages.
+
+## Key facts
+
+- Checked: 2026-11-26
+- Free plan: 1 device, servers in 10 countries
+- VPN Plus: $9.99 a month, or $2.99 a month first year
+- Paid devices: 10 at once
+- Network: 20,000+ servers, 140+ countries
+- Refund: 30 day money back
+- Company: Proton AG, Switzerland
+
+Proton VPN is a VPN from Proton AG in Switzerland with a free plan (one device, servers in 10 countries chosen at random) and paid plans that unlock 20,000+ servers in 140+ countries, streaming, P2P and the NetShield blocker on up to 10 devices. VPN Plus costs $9.99 a month, or $2.99 a month on the current one year offer, and every paid plan has a 30 day money back guarantee.
+
+> Free on one device, with no data cap. Pay for VPN Plus when you need streaming, torrents and ten devices.
+
+## What Proton VPN is
+
+Proton VPN is a VPN service from Proton AG, the Geneva company that also makes an encrypted email service. It encrypts the traffic between your device and its servers, hides your IP address from the sites you visit and, according to the company, keeps no activity logs. The apps are open source and cover Windows, macOS, Linux, Android, iOS, Chromebook, two browsers and three kinds of TV.
+There are three ways in. The free plan costs nothing and has no data cap, but it covers one device and picks a server in one of 10 countries for you. VPN Plus unlocks the full network of 20,000+ servers in 140+ countries, streaming, P2P and the NetShield blocker on 10 devices. The Unlimited bundle adds the paid versions of the company's mail, storage, password and calendar apps. The [free vs Plus comparison](free-vs-plus.html) shows the exact line between the tiers, and the [pricing page](pricing.html) lists every term with its renewal price.
+This guide is independent. Every price and feature comes from protonvpn.com as read on 26 November 2026, and where the company does not publish something, such as the installer size or the two year price, the page says so. When you are ready, the [download page](download.html) sends you to the official site for the app or a plan.
+
+## Pages in this guide
+
+- Review: A score out of 10 based on documented features, terms and limits.
+- Pricing: Every plan and term, with first year and renewal prices.
+- Free vs Plus: The free plan against VPN Plus, feature by feature.
+- Download: Which build to pick, supported systems and five install steps.
+- Windows setup: Install, sign in, Quick Connect, kill switch and fixes.
+- Refund and cancel: The 30 day guarantee, renewals and plan switches.
+- Devices: Platforms, TV apps, Linux support and device limits.
+- Alternatives: The rivals the company names, and what its own table claims.
+
+## The short version
+
+If you want a verdict first, the [review](review.html) scores the service 8.6 out of 10 on its documented features and terms. If you are setting up a PC, the [Windows guide](setup-windows.html) has the install steps with the app's own button names, and if you have paid and changed your mind, the [refund page](refund-cancel.html) covers the 30 day guarantee.
+- The free plan has no data cap and no ads, and keeps the kill switch.
+- Paid plans add a choice of country, streaming, P2P and Secure Core.
+- The first year offer renews at a much higher yearly price.
+- The apps are open source and the company publishes its audits.
+
+## Plans at a glance
+
+| Plan | Price on 26 Nov 2026 | Devices | Servers |
+|---|---|---|---|
+| Proton Free | $0 | 1 | 10 countries, chosen at random |
+| VPN Plus | $9.99 a month, or $35.88 for the first year | 10 | 20,000+ in 140+ countries |
+| Proton Unlimited | $12.99 a month, or $77.88 for the first year | 10 | 20,000+ in 140+ countries |
+
+
+## FAQ
+
+**What is Proton VPN?**
+
+It is a VPN service from Proton AG in Switzerland, the maker of an encrypted email service. It encrypts your connection, hides your IP address and offers a free plan next to the paid VPN Plus and Unlimited plans.
+
+**Is it free?**
+
+Yes. There is a free plan with no data cap and no ads, limited to one device and servers in 10 countries chosen at random. Paid plans start at $2.99 a month on the current one year offer.
+
+**How many servers does it have?**
+
+Paid plans give access to more than 20,000 servers in over 140 countries, with speeds of up to 10 Gbps. The free plan uses servers in 10 countries that the app selects.
+
+**Does it keep logs?**
+
+The company states that it keeps no logs that could identify your activity and that Swiss law cannot force it to start. Its apps are open source and independently audited, with the results published.
+
+**Where should I download it?**
+
+Only from protonvpn.com, the App Store, Google Play, F-Droid or the company's GitHub page. The download page of this guide explains which version to pick and links to the official site.
+
+## Sources
+
+- [Proton VPN homepage: plans, features and comparison table](https://protonvpn.com/)
+- [Proton VPN pricing page and plan FAQ](https://protonvpn.com/pricing)
+- [Proton VPN features overview](https://protonvpn.com/features)
+
+
+---
+
+# Proton VPN review: a free plan that works and a paid plan built for privacy
+
+URL: https://proton-pc.github.io/review.html
+Updated: 2026-11-26
+
+This Proton VPN review weighs the free plan, VPN Plus and the Unlimited bundle against what the company publishes: 20,000+ servers, open source apps, a Swiss base and a 30 day refund. There are no speed tests here, only documented features and terms.
+
+## Key facts
+
+- Score: 8.6 / 10
+- Free plan: Yes, 1 device, no data cap
+- VPN Plus: From $2.99 a month, first year
+- Renewal: $83.88 a year
+- Devices: Up to 10 at once
+- Refund: 30 days
+- Checked: 2026-11-26
+
+Proton VPN earns 8.6 out of 10 in this review. The free plan is unusually usable for a VPN that costs nothing, with no data cap, no ads, a kill switch and the Stealth protocol, though it is limited to one device and servers in 10 countries picked at random. VPN Plus adds streaming, P2P, NetShield, Secure Core and 10 devices, but its renewal price is far above the first year offer.
+
+## Verdict (8.6/10)
+
+Pick the free plan if you want a VPN on one device that costs nothing, shows no ads and does not cap your data. Pay for VPN Plus when you need streaming, torrents, a chosen country or more than one device, and set a reminder before the first year renews at the higher price.
+
+## Privacy and trust: what the company documents
+
+This review of Proton VPN starts where the service puts its weight: privacy. Proton AG, based near Geneva, runs it under Swiss law. Its feature pages say it keeps no activity logs, that Swiss law cannot oblige it to start logging, and that Switzerland sits outside the EU and outside the large surveillance alliances. Those are the company's statements; what backs them is that every app is open source and that the company commissions independent audits and publishes the full results.
+On the server side, the documentation lists bare metal servers with full disk encryption, the company's own DNS servers to stop DNS leaks, IPv6 leak protection and perfect forward secrecy, which creates a new key for each session. The protocols are WireGuard and OpenVPN. According to the protocol page, OpenVPN uses AES with 256 bit keys for data, 4096 bit RSA for the key exchange and HMAC SHA384 to check certificates.
+The homepage also carries a comparison table, last updated in April 2026, that contrasts the service with ExpressVPN, CyberGhost, NordVPN and Surfshark on open source code, public audits and ownership. It is the vendor's own table, so treat it as a claim to check; the [alternatives page](alternatives.html) lists those rivals with links to their own sites.
+
+## Features that matter day to day
+
+The paid plans unlock most of the list below. The free plan keeps the kill switch, Stealth, DNS leak protection and the no logs policy.
+- Secure Core: Sends traffic through a first server in Switzerland, Iceland or Sweden, in hardened data centres, before it leaves the network. Paid plans.
+- NetShield: DNS filtering that blocks malware domains and, on VPN Plus and Unlimited, ads and trackers.
+- Kill switch: Blocks all traffic if the tunnel drops, per session or permanently. Every plan, the free one included.
+- Stealth: A custom protocol that carries WireGuard over TLS to get past VPN blocks. Every plan.
+- Split tunneling: Keeps chosen apps or IP addresses outside the tunnel on Windows, macOS, Linux, Android, Android TV and the browser extension.
+- Port forwarding and Tor: Port forwarding for P2P, and Tor servers that open .onion sites in an ordinary browser.
+
+## The free plan in practice
+
+The free plan is the strongest argument for the service. It has no data cap and no ads, and it keeps the kill switch and the Stealth protocol that paying users get. The cost is flexibility: one device at a time, a speed tier the plan table calls medium, and servers in 10 countries that the app picks for you, so you cannot choose where you appear. Streaming, P2P and NetShield are not included.
+The pricing FAQ says the free tier has no artificial speed limits, while the plan table lists its speed as medium next to highest for the paid plans. Both statements sit on the same page; the fair reading is that free users are not throttled on purpose but share a smaller pool of servers. The [free vs Plus comparison](free-vs-plus.html) lines the two plans up row by row.
+
+## Speed claims, read carefully
+
+This site did not run speed tests, so the numbers here are the company's. Paid plans use servers of up to 10 Gbps. VPN Accelerator, a set of the company's own techniques on all paid plans, is said to improve speed by up to 400% on long distance connections. The setup guide adds a sensible caveat: a VPN cannot make a slow home line faster, and the best levers are a nearer server and one with a lower load.
+Quick Connect picks the fastest server for your location, and Smart Protocol probes the network to choose a protocol, which helps on networks that block VPN traffic. Alternative routing goes further and reaches the servers through third party networks such as AWS when direct access is blocked.
+
+## Price and value
+
+VPN Plus costs $9.99 for a single month. The Black Friday offer running on 26 November 2026 cuts the first year to $35.88, or $2.99 a month, and the plan then renews at $83.88 every 12 months. The Unlimited bundle adds the paid tiers of the company's mail, storage, password and calendar apps for $77.88 in the first year, then $119.88. The full table is on the [pricing page](pricing.html).
+Against that, the free plan means you can judge the apps before spending anything, and the 30 day money back guarantee covers the first month of any paid plan. If the free tier already does what you need, the [download page](download.html) explains what you get and how to install it.
+
+## Pros and cons
+
+Pros:
+- Free plan with no data cap and no ads
+- Open source apps with published audits
+- Kill switch and Stealth on every plan
+- Secure Core, NetShield, split tunneling and port forwarding on paid plans
+- 10 devices at once on VPN Plus
+- Apps for Windows, macOS, Linux, Android, iOS, TVs and browsers
+Cons:
+- Free plan cannot pick a country and covers one device
+- No streaming or P2P on the free plan
+- First year price renews at more than double
+- Two year price was not shown on the pricing page copy
+- Official Linux support only for Ubuntu and Debian with GNOME
+
+
+## FAQ
+
+**Is Proton VPN safe to use?**
+
+The company documents a no logs policy under Swiss law, open source apps with published independent audits, full disk encrypted servers and its own DNS servers to prevent leaks. These are vendor statements rather than this site's tests, but the code is public for anyone to inspect.
+
+**Is the free plan really free?**
+
+Yes. It costs nothing, has no data cap and shows no ads. It is limited to one device, servers in 10 countries chosen at random and a medium speed tier, and it does not include streaming, P2P or NetShield.
+
+**Does it work with Netflix?**
+
+Streaming is a paid feature. The company says VPN Plus and the Unlimited plan unblock services such as Netflix, Amazon Prime Video and Disney+, while the free plan does not include streaming.
+
+**Does it allow torrenting?**
+
+Yes, on paid plans. P2P and BitTorrent are included in VPN Plus and Unlimited, with port forwarding to help P2P performance. The free plan does not include P2P.
+
+**Where is the company based?**
+
+Proton AG is registered near Geneva, Switzerland, and the service runs under Swiss privacy law. The company says Swiss law cannot force it to start logging what users do.
+
+## Sources
+
+- [Proton VPN homepage with its comparison table](https://protonvpn.com/)
+- [Proton VPN features list](https://protonvpn.com/features)
+- [Proton VPN protocols and encryption settings](https://protonvpn.com/features/strong-protocols)
+- [Proton VPN kill switch feature page](https://protonvpn.com/features/kill-switch)
+- [Proton VPN pricing page and plan FAQ](https://protonvpn.com/pricing)
+
+
+---
+
+# Proton VPN pricing: VPN Plus and Unlimited prices, renewals and offers
+
+URL: https://proton-pc.github.io/pricing.html
+Updated: 2026-11-26
+
+Proton VPN pricing on 26 November 2026: VPN Plus costs $9.99 a month or $35.88 for the first year on the current offer, the Unlimited bundle $77.88 for the first year, and the free plan nothing. Renewal prices are higher, and this page lists them.
+
+## Key facts
+
+- Checked: 2026-11-26
+- Free: $0
+- Plus, 1 month: $9.99
+- Plus, 1 year: $35.88 first year
+- Plus renewal: $83.88 a year
+- Unlimited, 1 year: $77.88 first year
+- Money back: 30 days
+
+Proton VPN pricing has three tiers. The free plan costs nothing; VPN Plus is $9.99 for one month or $35.88 for the first year ($2.99 a month) and then renews at $83.88 a year; the Unlimited bundle is $12.99 a month or $77.88 for the first year, renewing at $119.88. Every paid plan has a 30 day money back guarantee.
+
+## Plans and prices
+
+Here is Proton VPN pricing as the official plan page showed it on 26 November 2026, in US dollars. The plan cards open on the one year term, with tabs for one month and two years. The struck out reference prices on the cards, $9.99 and $12.99, are the monthly prices, and the savings shown ($84 and $78) compare the yearly bill with 12 single months.
+| Plan | Term | Price shown | Billed | Renews at |
+|---|---|---|---|---|
+| Proton Free | No term | $0 | Nothing | Not applicable |
+| VPN Plus | 1 month | $9.99 a month | $9.99 | $9.99 a month |
+| VPN Plus | 1 year | $2.99 a month | $35.88 for the first 12 months | $83.88 every 12 months |
+| VPN Plus | 2 years | Not shown in the page copy | Check protonvpn.com | Check protonvpn.com |
+| Proton Unlimited | 1 month | $12.99 a month | $12.99 | $12.99 a month |
+| Proton Unlimited | 1 year | $6.49 a month | $77.88 for the first 12 months | $119.88 every 12 months |
+The two year tab did not render in the copy of the page this site read, so no two year price is quoted. The plan FAQ says two years of VPN Plus gives up to 65% off the monthly price; check the live figure before buying. Every plan starts from the same app, listed on the [download page](download.html).
+
+## What you pay in year two
+
+The headline monthly figure is a first year price. On the current offer, VPN Plus bills $35.88 for the first 12 months and then $83.88 every 12 months, so year two costs $48 more than year one. The Unlimited bundle goes from $77.88 to $119.88. The homepage presents the current cut as up to 70% off for Black Friday, so the first year figure belongs to that sale.
+Over two years on the yearly offer, VPN Plus comes to $119.76 ($35.88 plus one renewal at $83.88), against $239.76 for 24 single months at $9.99. The yearly term is the better deal even after renewal, as long as you know the second bill is coming.
+
+## What each plan includes
+
+If you are not sure whether to pay at all, the [free vs Plus page](free-vs-plus.html) walks through the gap feature by feature.
+- Free: 1 device, medium speed, servers in 10 countries picked at random, no logs, no ads, kill switch and Stealth. No streaming, P2P or NetShield.
+- VPN Plus: 10 devices at once, the highest speed tier, 20,000+ servers in 140+ countries, streaming, P2P, the NetShield ad and malware blocker, Secure Core, priority support and live chat.
+- VPN Plus also includes the free tiers of the company's mail, storage and password apps, with limited calendar access.
+- Unlimited: everything in VPN Plus plus the paid mail, storage, password and calendar plans, including 500 GB of storage, 15 email addresses and 50 password vaults.
+
+## Discounts, coupons and the $1 first month
+
+No coupon codes appear on the official pricing page. The discounts it shows are built into the terms: the Black Friday one year price, and an FAQ that quotes up to 65% off the monthly price for two years of VPN Plus, 55% for one year, and up to 38% for two years of Unlimited. Those FAQ figures describe the standard term discounts and sit apart from the current sale.
+Choosing the free plan on the pricing page can open a popup that offers VPN Plus for $1.00 for the first month, renewing at $9.99 a month, with the option to cancel at any time. The site footer also links to a student discount whose terms sit on a separate page that this guide did not read.
+
+## Payment methods and plan changes
+
+Visa, Mastercard, American Express, PayPal and Proton credits are accepted. Once you have an account you can buy credits with cash, a bank transfer or Bitcoin. You can switch term or plan at any time and the company applies prorated credit; moving down from Unlimited to VPN Plus means trimming email addresses, calendars or storage to fit the smaller plan.
+Cancelling and refunds are covered on the [refund and cancel page](refund-cancel.html). Before you commit to any tier, the [review](review.html) sums up what the money buys, and the [alternatives page](alternatives.html) lists the rivals the company compares itself with.
+
+
+## FAQ
+
+**How much is Proton VPN a month?**
+
+VPN Plus costs $9.99 for a single month. On a one year term it is $2.99 a month during the current offer, billed as $35.88 up front, and it renews at $83.88 a year. Prices were read on protonvpn.com on 26 November 2026.
+
+**Is there a free plan?**
+
+Yes. The free plan costs $0 and covers one device with servers in 10 countries chosen at random. It has no data cap and no ads, but no streaming or P2P.
+
+**What happens when the first year ends?**
+
+The plan renews automatically at the regular yearly price: $83.88 for VPN Plus and $119.88 for the Unlimited bundle. Cancel before the renewal date if you do not want to pay that amount.
+
+**Can I pay with crypto or cash?**
+
+Not directly at checkout. You pay by card, PayPal or Proton credits, and after creating an account you can buy credits with cash, a bank transfer or Bitcoin.
+
+**Is the Unlimited bundle worth it over VPN Plus?**
+
+Only if you will use the other apps. Unlimited adds paid mail, 500 GB of storage, a password manager and calendar for $77.88 in the first year, against $35.88 for VPN Plus. The VPN part is the same in both.
+
+## Sources
+
+- [Proton VPN pricing page and plan FAQ](https://protonvpn.com/pricing)
+- [Proton VPN homepage with the current sale and plan cards](https://protonvpn.com/)
+
+
+---
+
+# Proton VPN free vs Plus: what the free plan leaves out
+
+URL: https://proton-pc.github.io/free-vs-plus.html
+Updated: 2026-11-26
+
+Proton VPN free vs Plus comes down to five things: device count, country choice, streaming, P2P and NetShield. Here is the full line between the free plan and VPN Plus, taken from the company's plan table.
+
+## Key facts
+
+- Free devices: 1
+- Plus devices: 10
+- Free servers: 10 countries, chosen at random
+- Plus servers: 20,000+ in 140+ countries
+- Data cap: None on either plan
+- Plus price: From $2.99 a month, first year
+- Checked: 2026-11-26
+
+Proton VPN free vs Plus: the free plan gives one device, medium speed and servers in 10 countries that the app picks for you, with no data cap. VPN Plus adds 10 devices, 20,000+ servers in 140+ countries you choose yourself, streaming, P2P, NetShield, Secure Core and live chat support. Both keep the no logs policy, the kill switch and the Stealth protocol.
+
+## Free and Plus side by side
+
+When people compare Proton VPN free vs Plus, these are the rows that decide it. The table follows the company's own plan comparison and the feature labels on its Windows download page.
+| Feature | Free | VPN Plus |
+|---|---|---|
+| Price | $0 | $9.99 a month, or $2.99 a month for the first year |
+| Devices at once | 1 | 10 |
+| Speed tier | Medium | Highest |
+| Servers | 10 countries, chosen at random | 20,000+ in 140+ countries |
+| Choose a country | No | Yes |
+| Streaming | Not included | Included |
+| P2P and BitTorrent | Not included | Included |
+| NetShield ad and malware blocker | Not included | Included |
+| Secure Core | Not included | Included |
+| Split tunneling and VPN Accelerator | Not included | Included |
+| Data limit | None | None |
+| No logs, no ads | Yes | Yes |
+| Kill switch and Stealth | Yes | Yes |
+| Live chat support | No | Yes, most hours |
+
+## What both plans share
+
+The free tier is not a cut down trial. It uses the same open source apps, the same no logs policy and the same protocols as the paid plans. The kill switch is on every plan, Stealth is open to free users for getting past VPN blocks, and the Windows app lists DNS and IPv6 leak protection and alternative routing as free features. There is no cap on data, and the company says the free plan carries no ads.
+That covers the most common reason to use a VPN at all: protecting traffic on public WiFi. One laptop on a café network is exactly what the free plan is built for, and the company says paying users fund it so that free users are not the product.
+
+## Where the free plan stops
+
+The limits are about choice and scale. You get one connection at a time, so a phone and a laptop cannot both be protected at once. The app connects you to a server in one of 10 countries it selects, which is fine for privacy but no use if you need a particular location for a bank or a news site. The plan table lists free speed as medium.
+Streaming, P2P and NetShield are missing entirely. On Windows the paid labels also cover Secure Core, split tunneling, VPN Accelerator and streaming. If any one of those is the reason you want a VPN, the free plan will not do the job. Which apps each device needs is set out on the [devices and requirements page](devices.html).
+
+## Who should stay on Free, and who should pay
+
+Costs and renewal terms for each paid term are on the [pricing page](pricing.html), and the [review](review.html) gives an overall score.
+- Stay on Free if you protect one device on public networks and do not mind which country you appear in.
+- Stay on Free if you want to try the apps before paying anything.
+- Pay for Plus if you need a chosen country, streaming or torrents.
+- Pay for Plus if a phone, a laptop and a TV all need cover at the same time.
+- Look at the Unlimited bundle only if you will also use the paid mail, storage or password apps.
+
+## Is there a free trial of Plus?
+
+The company does not offer a time limited free trial of VPN Plus. The free plan plays that role, and paid plans come with a 30 day money back guarantee, so you can pay for Plus and ask for a refund within 30 days if it does not suit you. At times the pricing page also offers the first month of Plus for $1.00, renewing at $9.99 a month.
+Both plans run in the same apps, and the plan is tied to your account rather than to a separate installer. You can get the apps from the [download page](download.html).
+
+
+## FAQ
+
+**Is the free version of Proton VPN safe?**
+
+It uses the same apps, protocols and no logs policy as the paid plans, and it keeps the kill switch. The company says it can offer the free plan without ads because paying users fund the service.
+
+**Does the free plan have a data limit?**
+
+No. The company states there is no data limit on any plan, the free plan included. The limits are on devices, countries and features instead.
+
+**Can I choose a country on the free plan?**
+
+No. Free users connect to servers in 10 countries that are selected at random. Choosing a specific country needs VPN Plus or the Unlimited bundle.
+
+**Can I watch Netflix with the free plan?**
+
+No. Streaming is listed as not included on the free plan. It is part of VPN Plus and the Unlimited bundle.
+
+**How many devices can I use for free?**
+
+One device at a time. VPN Plus and Unlimited allow 10 at once, and a router counts as one connection however many devices sit behind it.
+
+## Sources
+
+- [Proton VPN pricing page with the plan comparison table](https://protonvpn.com/pricing)
+- [Proton VPN features list](https://protonvpn.com/features)
+- [Proton VPN protocols page: Stealth on all plans](https://protonvpn.com/features/strong-protocols)
+
+
+---
+
+# Download Proton VPN: what you get, supported systems and install steps
+
+URL: https://proton-pc.github.io/download.html
+Updated: 2026-11-26
+
+You can download Proton VPN free from protonvpn.com for Windows, macOS, Linux, Android, iOS, Chromebook, two browsers and three kinds of TV. One account works in every app; your plan decides how many devices connect at once.
+
+## Key facts
+
+- Price: Free, or VPN Plus from $2.99 a month
+- Windows builds: x64 and ARM64
+- Platforms: Windows, macOS, Linux, Android, iOS, TVs, browsers
+- Installer size: Not published
+- Version: Not stated on the download page
+- Refund: 30 days on paid plans
+- Checked: 2026-11-26
+
+Download Proton VPN from protonvpn.com, the App Store or Google Play, create a free account or buy VPN Plus, sign in and press Quick Connect. The Windows app comes in x64 and ARM64 versions. The company does not publish an installer size or a version number on its download page, so check those on the site when you download.
+
+## What you get
+
+When you download Proton VPN you get the full app, not a separate trial build. The same installer serves free and paying users, and what you can do depends on the plan tied to your account. The full apps send all of the device's traffic through the encrypted tunnel, while the Chrome and Firefox extensions protect only the browser.
+The Windows app has a native ARM version for machines such as the Surface Laptop and Surface Pro. Android users can also get the app from F-Droid or as an APK from GitHub. For a walkthrough with the app's own button names, see the [Windows setup guide](setup-windows.html).
+
+## Supported systems
+
+| Platform | Where to get it | Note |
+|---|---|---|
+| Windows | protonvpn.com | x64 and ARM64 builds |
+| macOS | protonvpn.com | Mac app |
+| Linux | protonvpn.com | Official support for Ubuntu and Debian with GNOME |
+| Android | Google Play, F-Droid or APK | Open source app |
+| iPhone and iPad | App Store | iOS and iPadOS app |
+| Chromebook | protonvpn.com | Listed as supported |
+| Chrome and Firefox | Browser extension stores | Protects the browser only |
+| Android TV and Apple TV | The TV's app store | Sign in once through a browser |
+| Fire TV | Android app or Vega OS app | Depends on the stick's system |
+Which device needs which app is covered in more detail on the [devices and requirements page](devices.html).
+
+## Install steps
+
+1. Create an account: Sign up for the free plan or buy VPN Plus on protonvpn.com. If you already use the company's email service, that account works too.
+2. Pick the right build: On Windows, press Win + R, type msinfo32 and look at System Summary > System Type to see whether you need x64 or ARM64.
+3. Install: Run the downloaded file and follow the setup wizard. On phones and TVs, install from the App Store or Google Play instead.
+4. Sign in: Open the app and log in with your Proton username and password.
+5. Connect: Click Quick Connect to join the fastest server for your location, or pick a server your plan allows.
+
+## Free plan, paid plans and refund
+
+The free plan needs no payment details and has no time limit. VPN Plus and the Unlimited bundle are subscriptions that renew automatically; on 26 November 2026 VPN Plus cost $9.99 a month or $35.88 for the first year. Every paid subscription has a 30 day money back guarantee, and the full rules are in the company's terms.
+Price detail is on the [pricing page](pricing.html), and the refund process on the [refund and cancel page](refund-cancel.html).
+
+
+## FAQ
+
+**Is Proton VPN free to download?**
+
+Yes. All the apps are free to download, and the free plan costs nothing to use on one device. Paid plans unlock more devices and features.
+
+**Which Windows version should I download?**
+
+Pick x64 for most PCs and ARM64 for ARM laptops such as the Surface Pro. If you are not sure, open System Information and check System Type under System Summary.
+
+**How big is the installer?**
+
+The company does not publish the installer size or a current version number on its download page. Your browser shows the file size once the download starts.
+
+**Do I need a separate account for each device?**
+
+No. One account signs in on every app. VPN Plus allows 10 devices connected at the same time, and the free plan allows one.
+
+**Is it safe to download from other sites?**
+
+Use protonvpn.com, the official app stores, F-Droid or the company's GitHub page. Copies from other sites can be altered and are not supported by the company.
+
+## Sources
+
+- [Proton VPN setup guide for new users](https://protonvpn.com/support/protonvpn-setup-guide)
+- [Proton VPN support: using it on Fire TV](https://protonvpn.com/support/firestick)
+
+
+---
+
+# How to set up Proton VPN on Windows, step by step
+
+URL: https://proton-pc.github.io/setup-windows.html
+Updated: 2026-11-26
+
+How to set up Proton VPN on Windows: create an account, install the right build, sign in and connect with Quick Connect. Then turn on the kill switch and work through the connection problems the support centre lists.
+
+## Key facts
+
+- Steps: 6
+- Builds: x64 and ARM64
+- Check your PC: msinfo32, System Type
+- Connect button: Quick Connect
+- Kill switch: Every plan
+- Free plan: 1 device
+- Checked: 2026-11-26
+
+To set up Proton VPN on Windows, create a free or paid account, check whether your PC is x64 or ARM64, run the matching installer and follow the wizard. Sign in with your account details and click Quick Connect to join the fastest server. Turn on the kill switch so your IP address stays hidden if the tunnel drops.
+
+## Before you start
+
+Setting up Proton VPN on Windows takes three things.
+- An account: free, VPN Plus or Unlimited. People who already use the company's email service have one.
+- Your PC's architecture: x64 for most desktops and laptops, ARM64 for the Surface Pro, Surface Laptop, Galaxy Book S and similar ARM machines.
+- The installer from protonvpn.com; the [download page](download.html) of this guide explains which file is which.
+
+## Install and connect
+
+1. Create an account: Sign up for the free plan or buy VPN Plus on protonvpn.com. A paid plan unlocks 10 devices and the full server list.
+2. Check x64 or ARM64: Press Win + R, type msinfo32 and press Enter. In System Information, open System Summary and read System Type.
+3. Download the matching build: Get the x64 or ARM64 installer from the official Windows download page.
+4. Run the installer: Double click the downloaded file and follow the setup wizard to the end.
+5. Sign in: Open the app and log in with your username and password.
+6. Click Quick Connect: The app connects to the fastest server for your location. Paid users can instead pick a country or a specialised server, such as a Tor server.
+
+## Settings worth turning on
+
+Once connected, websites see the VPN server's address and your internet provider sees only encrypted traffic. A few settings are worth checking in the app.
+- Kill switch: blocks all traffic if the VPN drops; use it per session or as a permanent kill switch. Available on every plan.
+- NetShield: blocks malware domains, and on paid plans ads and trackers too.
+- Split tunneling: keeps chosen apps or IP addresses outside the tunnel. Paid plans.
+- Secure Core: routes traffic through a first server in Switzerland, Iceland or Sweden. Paid plans.
+- Protocol: Smart Protocol chooses automatically; Stealth helps where VPNs are blocked.
+Not sure which of these your plan includes? The [free vs Plus comparison](free-vs-plus.html) lists them.
+
+## If it will not connect
+
+The setup guide names three usual causes when a connection fails: the server is down for maintenance, the PC's clock does not match the time on the server's SSL certificate, or the network you are on restricts VPN traffic. Work through them in this order.
+1. Try a different server, since the first one may be under maintenance.
+2. Correct the date and time on the PC, then reconnect.
+3. On a restrictive network, switch the protocol to Stealth, or let alternative routing try to reach the servers through third party networks.
+4. If it still fails, contact the support team; paid plans get live chat most hours.
+
+## If it is slow
+
+A VPN cannot raise the speed of the line underneath it. The company's advice is to connect to a server closer to you and to one with a lower load; the app shows the load next to each server name. On paid plans VPN Accelerator is available for long distance connections, and the 10 Gbps servers are reserved for VPN Plus and Unlimited.
+If you also want the VPN on a phone or a TV, the [devices page](devices.html) shows which app each one needs. On the free plan, remember that only one device can be connected at a time.
+
+
+## FAQ
+
+**How do I install Proton VPN on Windows?**
+
+Download the x64 or ARM64 installer from protonvpn.com, double click it and follow the wizard. Then sign in and click Quick Connect.
+
+**Is my PC x64 or ARM64?**
+
+Press Win + R, type msinfo32 and press Enter. System Summary shows the System Type; ARM machines include the Surface Pro, Surface Laptop and Samsung Galaxy Book S.
+
+**Can I use my existing email account login?**
+
+Yes. People who already use the company's email service have a VPN account and sign in to the app with the same username and password.
+
+**Why does the app fail to connect?**
+
+Common causes are a server under maintenance, a wrong system clock, or a network that blocks VPN traffic. Switch server, fix the clock, or try the Stealth protocol.
+
+**Does the VPN protect apps other than the browser?**
+
+Yes. The full Windows app routes all of the PC's internet traffic through the tunnel. Only the browser extensions are limited to the browser.
+
+## Sources
+
+- [Proton VPN setup guide for new users: connection and speed FAQ](https://protonvpn.com/support/protonvpn-setup-guide)
+- [Proton VPN kill switch feature page](https://protonvpn.com/features/kill-switch)
+- [Proton VPN protocols page: Stealth and Smart Protocol](https://protonvpn.com/features/strong-protocols)
+
+
+---
+
+# Proton VPN refund and cancellation: the 30 day guarantee explained
+
+URL: https://proton-pc.github.io/refund-cancel.html
+Updated: 2026-11-26
+
+The Proton VPN refund policy is a 30 day money back guarantee on every paid subscription, and you can cancel at any time. This page explains what the company publishes, what it leaves to its terms, and how to avoid an unwanted renewal.
+
+## Key facts
+
+- Money back: 30 days
+- Applies to: All paid subscriptions
+- Cancel: Any time
+- Plan changes: Prorated credit
+- Full rules: Terms and Conditions
+- Checked: 2026-11-26
+
+Proton VPN refunds paid subscriptions under a 30 day money back guarantee if you ask within the first 30 days, and you can cancel at any time. The pricing page points to the company's Terms and Conditions for the full refund rules. Plan changes get prorated credit.
+
+## What the guarantee covers
+
+The Proton VPN refund promise is short. The pricing FAQ says you may cancel your subscription at any time and that the company gives a money back guarantee on all subscriptions when the refund is requested within the first 30 days. The homepage adds that it refunds the payment in full inside that window.
+The same 30 day promise appears on each paid plan card and on the Windows and Apple TV download pages. It covers VPN Plus and the Unlimited bundle on any term, monthly or yearly.
+
+## What the plan pages leave to the terms
+
+The plan pages do not say what happens to a refund request after day 30, how long the money takes to come back, or how purchases made through the App Store or Google Play are handled. Instead they link to the company's Terms and Conditions for the full refund policy.
+This guide did not read those terms, so it does not quote them. If any of these points matter to you, read the terms on the official site before you buy, and keep the date of your purchase so you know when the 30 days end.
+
+## Avoiding an unwanted renewal
+
+The larger cost risk is the renewal, not the refund. Paid plans renew automatically. On the current offer, VPN Plus moves from $35.88 in the first year to $83.88 a year, and the Unlimited bundle from $77.88 to $119.88. Note your renewal date when you subscribe and decide a few weeks before it whether to keep the plan.
+The [pricing page](pricing.html) of this guide lists every term with its renewal price, so you can see the second year bill before you buy the first.
+
+## Switching or downgrading instead of cancelling
+
+If the problem is the plan rather than the service, switching may suit you better than cancelling. The company lets you change term or plan at any time and applies prorated credit, for example when moving from one month of VPN Plus to a year, or from VPN Plus to the Unlimited bundle.
+Moving down from Unlimited means fitting your account into the smaller plan, which can mean deactivating email addresses or calendars and cutting storage. Plan for that before you switch.
+
+## Cancelling and keeping the free plan
+
+The free plan has no time limit, so leaving a paid plan does not have to mean losing the VPN. The plan pages do not describe exactly when paid features stop after you cancel, so check your account dashboard for the date.
+If you decide the service is not for you, the [alternatives page](alternatives.html) lists the rivals the company compares itself with. To come back later, the [download page](download.html) has the apps.
+
+
+## FAQ
+
+**Does Proton VPN give refunds?**
+
+Yes. All paid subscriptions have a 30 day money back guarantee if you request the refund within the first 30 days. The full rules are in the company's Terms and Conditions.
+
+**Can I cancel at any time?**
+
+Yes, the pricing FAQ says you can cancel at any time. To avoid paying the higher renewal price, cancel before your term renews.
+
+**Is the refund full or partial?**
+
+Within the 30 days the homepage says the payment is refunded in full. The plan pages do not describe refunds after day 30; the Terms and Conditions are the place to check.
+
+**What payment methods are accepted?**
+
+Visa, Mastercard, American Express, PayPal and Proton credits. Credits can be bought with cash, a bank transfer or Bitcoin after you create an account.
+
+**Will I lose the VPN if I cancel?**
+
+No. You can keep using the free plan, which has no time limit, on one device with servers in 10 countries chosen at random.
+
+## Sources
+
+- [Proton VPN pricing page: cancellation, refund and plan change FAQ](https://protonvpn.com/pricing)
+- [Proton VPN homepage: 30 day refund statement](https://protonvpn.com/)
+
+
+---
+
+# Proton VPN system requirements and supported devices
+
+URL: https://proton-pc.github.io/devices.html
+Updated: 2026-11-26
+
+Proton VPN system requirements are short: the apps cover Windows, macOS, Linux, Android, iOS and iPadOS, Chromebook, Chrome, Firefox, Android TV, Apple TV and Fire TV. This page lists what each platform needs and how device limits work.
+
+## Key facts
+
+- Windows: x64 and ARM64
+- Linux, official: Ubuntu and Debian with GNOME
+- TVs: Android TV, Apple TV, Fire TV
+- Browsers: Chrome, Firefox
+- Devices: 1 free, 10 paid
+- Minimum OS versions: Not on the download pages
+- Checked: 2026-11-26
+
+Proton VPN runs on Windows (x64 and ARM64), macOS, Linux, Android, iOS and iPadOS, Chromebook, Chrome and Firefox, Android TV, Apple TV and Fire TV. On Linux it is officially supported on Ubuntu and Debian with GNOME. The free plan covers one device at a time and paid plans cover 10, with a router counting as one.
+
+## Platforms and what each needs
+
+The system requirements for Proton VPN are mostly a question of which app your device takes. The table sums up what the company's download and support pages say.
+| Platform | Requirement or note |
+|---|---|
+| Windows | Separate x64 and ARM64 builds |
+| macOS | Mac app |
+| Linux | Officially Ubuntu and Debian with GNOME; others may work with limited support |
+| Android | Google Play, F-Droid or APK from GitHub |
+| iOS and iPadOS | App Store |
+| Chromebook | Listed as supported |
+| Chrome, Firefox | Extensions; protect the browser only |
+| Android TV | Play Store on the TV or from a desktop browser |
+| Apple TV | App Store on the Apple TV |
+| Fire TV | Android app on Fire OS, Vega OS app on newer sticks |
+| Routers | Manual setup; counts as one connection |
+The download pages do not publish minimum operating system versions, memory or disk space. If you run an older system, check the release notes on the official site before buying a paid plan.
+
+## Windows: x64 or ARM64
+
+Windows comes in two builds. Most PCs need x64; ARM laptops such as the Microsoft Surface Laptop and Surface Pro, the Samsung Galaxy Book S, Lenovo Flex 5G, HP Elite Folio and Acer Spin 7 need the ARM64 build, which the company says has the same advanced features as the regular app. To check, open System Information with msinfo32 and read System Type. The [Windows setup guide](setup-windows.html) walks through the full install.
+
+## Linux, Mac and mobile
+
+On Linux the company officially supports Ubuntu and Debian running the GNOME desktop. Other distributions may work, but support for them may be limited; the support centre has separate guides for Arch Linux and for the Linux GUI app.
+Mac users install the macOS app from the official site, and iPhone and iPad users get the iOS and iPadOS app from the App Store. On Android the app is on Google Play, and the same open source app is available on F-Droid or as an APK from GitHub.
+
+## TVs and streaming sticks
+
+The Android TV app installs from the TV's own app store, or from a desktop browser through Google Play by choosing the TV as the target device. The Apple TV app comes from the App Store on the device. Both ask you to sign in once through a browser, and both use the remote to pick a country, with a Fastest country option on Apple TV.
+Fire TV is split. Amazon began moving newer Fire TV Sticks to Vega OS, a Linux based system, in late 2025. Older sticks on Fire OS use the Android app, while newer Vega OS sticks need the separate Vega OS app. Streaming on any TV app needs VPN Plus or the Unlimited bundle; the [free vs Plus page](free-vs-plus.html) has the details.
+
+## Device limits and routers
+
+VPN Plus and the Unlimited bundle allow 10 devices or browsers connected at the same time; the free plan allows one. A router set up with the VPN protects every device behind it and counts as a single connection, which helps a household with more screens than the limit. The full apps protect the whole device, while the browser extensions cover only the browser.
+When you know which app you need, the [download page](download.html) links to each one through the official site.
+
+
+## FAQ
+
+**Does Proton VPN work on Linux?**
+
+Yes. It is officially supported on Ubuntu and Debian with the GNOME desktop. Other distributions may work, but with limited support.
+
+**Does it work on a Fire TV Stick?**
+
+Yes. Use the Android app on Fire OS devices and the Vega OS app on newer sticks that run Vega OS. The support page explains how to tell which system your stick runs.
+
+**Is there an app for ARM Windows laptops?**
+
+Yes. A native ARM64 build covers devices such as the Surface Pro, Surface Laptop and Galaxy Book S, with the same features as the x64 app.
+
+**How many devices can I connect?**
+
+One on the free plan and 10 on VPN Plus or the Unlimited bundle. A router counts as one connection however many devices use it.
+
+**What are the minimum system requirements?**
+
+The download pages do not list minimum OS versions, memory or disk space. Check the release notes on the official site if your system is old.
+
+## Sources
+
+- [Proton VPN setup guide for new users: platforms and routers](https://protonvpn.com/support/protonvpn-setup-guide)
+- [Proton VPN support: using it on Fire TV and Vega OS](https://protonvpn.com/support/firestick)
+
+
+---
+
+# Proton VPN alternatives: the rivals the company compares itself with
+
+URL: https://proton-pc.github.io/alternatives.html
+Updated: 2026-11-26
+
+Looking for Proton VPN alternatives? These are the VPN services the company names in its own comparison table and menu, with what that table claims about each. Check each rival's own site for prices before you decide.
+
+## Key facts
+
+- Rivals listed: 6
+- Source of claims: The vendor's comparison table
+- Table updated: April 2026
+- Its jurisdiction: Switzerland
+- Free plan: Yes, 1 device
+- Checked: 2026-11-26
+
+The main Proton VPN alternatives are NordVPN, ExpressVPN, Surfshark, CyberGhost, Mullvad and Private Internet Access, the services the company names on its own site. Its comparison table, updated April 2026, says none of the four big rivals it lists has open source apps or a publicly available no logs audit. Those are the vendor's claims, so check each rival's own pages before switching.
+
+## What the company's comparison table says
+
+Anyone weighing Proton VPN alternatives will meet the comparison table on its homepage. The summary below reproduces its rows. The footnotes say ExpressVPN's audit reports sit behind a non disclosure agreement, CyberGhost's Deloitte report has to be requested from Deloitte, and NordVPN and Surfshark show their audits only to logged in customers. The NordVPN entries for ad and malware blocking refer to its Basic plan.
+| Row | Proton | ExpressVPN | CyberGhost | NordVPN | Surfshark |
+|---|---|---|---|---|---|
+| Open source apps | Yes | No | No | No | No |
+| Public no logs audit | Yes | No | No | No | No |
+| Ad blocker | Yes | Yes | Yes | No (Basic plan) | Yes |
+| Malware blocker | Yes | Yes | Yes | No (Basic plan) | Yes |
+| Jurisdiction | Switzerland | British Virgin Islands | Romania | Panama | Netherlands |
+| Owner | Proton AG | Kape | Kape | Nord Security | Nord Security |
+The table was last updated in April 2026 and is published by the company it favours. Treat each row as a question to check on the rival's own site, not as a verdict.
+
+## Six alternatives in brief
+
+This guide does not quote rival prices, because it has not read their pricing pages. Compare them on each official site on the day you buy.
+- NordVPN: owned by Nord Security, Panama in the table; ad and malware blocking need a plan above Basic.
+- ExpressVPN: owned by Kape, British Virgin Islands; audit reports behind a non disclosure agreement, per the table.
+- Surfshark: owned by Nord Security, Netherlands; audits visible after login, per the table.
+- CyberGhost: owned by Kape, Romania; a Deloitte no logs report available on request from Deloitte.
+- Mullvad VPN: listed in the company's menu of comparisons but not in the homepage table, so check mullvad.net for its terms.
+- Private Internet Access: named in the table's footnotes as another Kape brand; Kape is based in the UK.
+
+## When to stay
+
+Stay if open source apps, published audits and a Swiss base are what you are choosing on, since those are the points the company documents in detail. The free plan is another reason: you can keep a VPN on one device at no cost while you compare. The [review](review.html) weighs those points with a score, and the [free vs Plus page](free-vs-plus.html) shows how far the free tier goes.
+If you only need one device and do not care where you appear, you may not need to switch at all; try the free plan from the [download page](download.html) first.
+
+## How to compare fairly
+
+- Compare the renewal price, not only the first year offer.
+- Read each rival's own audit page, not a summary written by a competitor.
+- Check the device limit against the number of screens in your home.
+- Check whether the features you need are in the cheapest plan.
+- Use refund windows: this service gives 30 days on paid plans.
+
+
+## FAQ
+
+**What is the best alternative to Proton VPN?**
+
+It depends on what you value. If open source apps and published audits matter most, the company's own table argues none of the big four rivals match it; if price or one feature matters more, compare each rival's current pricing page directly.
+
+**Is it better than NordVPN?**
+
+This site has not tested either service. The vendor's table says it has open source apps and a public no logs audit while NordVPN does not, and that NordVPN's Basic plan lacks an ad and malware blocker. Check NordVPN's own site for its side.
+
+**Who owns ExpressVPN and CyberGhost?**
+
+According to the table on the homepage, both are owned by Kape, which also owns Private Internet Access. The table's footnotes place Kape in the UK.
+
+**Is the comparison table neutral?**
+
+No. It is published by the company it favours and was last updated in April 2026. Use it as a list of questions to check, not as a verdict.
+
+**Can I keep the free plan while I try another VPN?**
+
+Yes. The free plan has no time limit, so you can keep it on one device while you test a rival, and paid plans have a 30 day money back guarantee.
+
+## Sources
+
+- [Proton VPN homepage: comparison table with footnotes, April 2026](https://protonvpn.com/)
+- [Proton VPN pricing page: free plan and refund terms](https://protonvpn.com/pricing)
